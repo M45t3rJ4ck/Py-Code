@@ -1,0 +1,20 @@
+Add in here what you would like to learn to do, our teachers will check this file periodically to see if you've got any 
+new ideas of specific things you want to know about Python. 
+
+
+Add in here if there's a specific area you don't understand well or need more help in.
+
+
+    						      ===Like To Learn===
+1.) Python Secret module
+2.) Graphic user interface modeling
+3.) Artificial inteligance coding
+4.) Cloud and modile platforms
+5.) Communication systems coding - cisco, satelite...
+
+ 
+							=== Learning ===
+
+1.) Basic python - in progress
+
+.

@@ -1,0 +1,7 @@
+The LocationHistory.json has its time stored in milliseconds since 1970 (known as Unix time) whilst mapPlot stores it as a string (ie 2014-09-03 ....).
+
+You need to convert between these formats which is actually quite easy to do.
+
+dateObject = datetime.fromtimestamp(timestampMs / 1000)  # This line creates a date-time object from the seconds since 1970. Divide by a 1000 to get from milliseconds to seconds. 
+
+otherFormat = dateObject.strftime("%Y-%m-%dT%H:%M:%SZ").  # Creates a string using the formatting required by mapPlot.py
