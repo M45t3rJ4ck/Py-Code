@@ -1,6 +1,0 @@
-'''Optional Task
-1) Ask user: Please enter 4 numbers
-2) Save user numbers under UsernumList
-3) Arrange values in UsernumList from < to >
-4) Print sorted numbers on screen
-'''
